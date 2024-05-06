@@ -1,0 +1,64 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "tittle": "Desarrollador Frontend",
+            "salary": "1000",
+            "location": "Bogotá"
+        },
+        {
+            "id": 2,
+            "tittle": "Senior React Developer",
+            "salary": "2000",
+            "location": "Medellín"
+        },
+        {
+            "id": 3,
+            "tittle": "Desarrollador Fullstack",
+            "salary": "3000",
+            "location": "Cali"
+        },
+        {
+            "id": 4,
+            "tittle": "Vue Developer",
+            "salary": "4000",
+            "location": "Barranquilla"
+        },
+        {
+            "id": 5,
+            "tittle": "Desarrollador Backend",
+            "salary": "5000",
+            "location": "Cartagena"
+        },
+        {
+            "id": 6,
+            "tittle": "Desarrollador Frontend",
+            "salary": "6000",
+            "location": "Bogotá"
+        },
+        {
+            "id": 7,
+            "tittle": "Senior React Developer",
+            "salary": "7000",
+            "location": "Medellín"
+        },
+        {
+            "id": 8,
+            "tittle": "Desarrollador Fullstack",
+            "salary": "8000",
+            "location": "Cali"
+        },
+        {
+            "id": 9,
+            "tittle": "Vue Developer",
+            "salary": "9000",
+            "location": "Barranquilla"
+        },
+        {
+            "id": 10,
+            "tittle": "Desarrollador Backend",
+            "salary": "10000",
+            "location": "Cartagena"
+        }
+    ]
+}
